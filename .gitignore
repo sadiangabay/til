@@ -1,0 +1,4 @@
+_site
+node_modules
+_/.bundle/
+_/vendor/
