@@ -15,9 +15,9 @@ url: http://sadiangabay.com/til
 title: Today I Learned
 
 # Google analytics
-#analytics:
-  #hostname: sadiangabay.com
-  #id: "UA-57991635-2"
+analytics:
+  hostname: sadiangabay.com
+  id: "UA-57991635-4"
 
 # Collections
 collections:
