@@ -5,7 +5,6 @@ description: Tips to get you up to speed as a POC resident.
 ---
 
 ## Foreword from Dr. Pujalte
-
 Congratulations to Dr. Jewel Sadiang-abay for a thoughtful introduction to orthopedic residency at the Philippine Orthopedic Center.
 
 Unfortunately, the medical school adage *"see one, do one, teach one"* is woefully incomplete because residency demands a deeper grasp of things orthopedic as it were. The popular author Gail Sheehy in her book *"Passages"* explains that one factor for success in life is a period early in one's career of single-minded focus in work. This is exactly what I mean in eating, drinking and dreaming orthopedics.
@@ -18,11 +17,9 @@ Philippine Orthopedic Center<br/>
 POC Resident 1991-1994
 
 ## Foreword from Dr. Bengzon
-
 Content goes here.
 
 ## Introduction
-
 Dear new residents,
 
 Welcome to POC!
@@ -159,27 +156,26 @@ Banawe QC, December 2016
 
 ## Preoperative/Indications day
 - Patients for surgery:
-  - have appropriate units of blood ready for surgery
+  - Have appropriate units of blood ready for surgery
   - Hg at least 100 or higher
   - Na K Cl has been checked 3 days prior- correct as needed
-  - check PT PTT not deranged and correct accordingly
+  - Check PT PTT not deranged and correct accordingly
   - Urinalysis/Dental clearance checked and made sure there are no foci of infection prior to joint replacements
   - Clearances are valid
     - IM/Cardio good for one month
     - Pulmo good for one week
     - DM good for one month or longer as long as coordinated with Dr Alba
-    - if patient’s clearance is expired for one or two days, call the internist and ask if it is possible to proceed with surgery without having to repeat all the labs
+    - If patient’s clearance is expired for one or two days, call the internist and ask if it is possible to proceed with surgery without having to repeat all the labs
     - Ask male elderly patients if they have  BPH or other prostate or urinary problems day prior to surgery
-    - surgery will not proceed if an indwelling foley catheter cannot be inserted due to a mechanical obstruction
-    - you may need to do a stat Uro referral on the day of surgery which will cause a delay or deferral of the procedure (hence, plan accordingly)
+    - Surgery will not proceed if an indwelling foley catheter cannot be inserted due to a mechanical obstruction
+    - You may need to do a stat Uro referral on the day of surgery which will cause a delay or deferral of the procedure (hence, plan accordingly)
 - Pertaining to anticoagulants:
   - Patients should be off aspirin and clopidogrel days prior to surgery
   - Hence, review patient's medications days prior to surgery and coordinate with internist regarding the discontinuation
 - Contact numbers and duty schedules of internal medicine consultants are available at the information desk of the emergency room (local 214)
-- contact number of hospitals and co-residents are available at the nurses station at the ER (local 212)
+- Contact number of hospitals and co-residents are available at the nurses station at the ER (local 212)
 
 ## Templating
-
 - For proper templating refer to Chapter 2.4 of AO Volume 1.
 - The templates should be cut out/scissored and put back together.
 - Make an AP and lateral template (not just an AP)
