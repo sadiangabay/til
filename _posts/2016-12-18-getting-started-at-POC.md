@@ -239,7 +239,7 @@ Banawe QC, December 2016
     - Hoppenfeld Orthopedic Exposures chapter on approaches to femoral shaft
     - (plus pertinent anatomy)
     - Rockwood 8 chapter on femoral shaft fracture
-    - Rockweood 8 chapter on internal fixation
+    - Rockwood 8 chapter on internal fixation
     - AO Volume chapter on femoral shaft fixation
     - AO chapter on IMN  
     - AO chapter on relative stability (length axis rotation)
