@@ -45,7 +45,7 @@ Banawe QC, December 2016
 	- Place orientation markers of anterior, posterior, medial, lateral
   - Endorse in this sample format
 
-  ~~~
+  ~~~markdown
   This is patient Juan Dela Cruz 70/Male
   14th hospital day
 
@@ -56,15 +56,15 @@ Banawe QC, December 2016
   - DM Type 2 uncontrolled
   - Hypertension Stage 2 uncontrolled
 
-  Resutls of latest and pertinent labs:
+  Results of latest and pertinent labs:
   1. Hg
   2. Hct
   3. Coagulation parameters:
   4. Na
   4. K
   5. 2D echo done showed
-  6. Ejection Fraction - (especially if you are doing cemented
-    arthroplasties)
+  6. Ejection Fraction - (especially if you are doing
+    cemented arthroplasties)
   7. CXR
   8. 12 lead ECG
 
@@ -213,7 +213,7 @@ Banawe QC, December 2016
   - Do we need ss wires?
 - Study plan for a pre op conference may look like this:
 
-  ~~~
+  ~~~markdown
   For a Galeazzi fracture dislocation
 
   - Must read
