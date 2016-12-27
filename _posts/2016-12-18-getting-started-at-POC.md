@@ -16,9 +16,6 @@ Medical Center Chief II<br/>
 Philippine Orthopedic Center<br/>
 POC Resident 1991-1994
 
-## Foreword from Dr. Bengzon
-Content goes here.
-
 ## Introduction
 Dear new residents,
 
@@ -500,7 +497,7 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Catch
 - Evernote
 - PBO e-logbook
-- Microsoft powerpoint
+- Microsoft Powerpoint
 
 ## Take good care of yourself
 - Eat when you have to
