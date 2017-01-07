@@ -17,7 +17,7 @@ Philippine Orthopedic Center<br/>
 POC Resident 1991-1994
 
 ## Foreword from Dr. Bengzon
-Residency, while it is an opportunity for developing knowledge, skills & attitudes, is also a unique personal experience that will differ among all trainees. Each experience is colored by reflections & experiences once goes through and this experience goes into memory to be used in whatever way.
+Residency, while it is an opportunity for developing knowledge, skills & attitudes, is also a unique personal experience that will differ among all trainees. Each experience is colored by reflections & experiences one goes through and this experience goes into memory to be used in whatever way.
 
 Jewel has used her POC experience as a lens for others who will walk the same path for orthopedic training. This being the first time (to my memory) for a graduate to describe their experiences during training, this detailed description serves to give advice for the younger residents through the bumps & trials they face. Hopefully, reading this will not only result in improving the approach to better patient care but also in a better person.
 
