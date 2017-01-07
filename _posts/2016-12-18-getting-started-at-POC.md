@@ -383,6 +383,7 @@ Banawe QC, December 2016
   - Septic knee
   - Compartment syndrome
   - Talar/Femural neck/Spine fracture in multiple injuries
+
   Always consider these as the differentials, and carefully rule these out before discharging the patient
 - Always be thorough in reviewing your x-rays, always have a second look. Make sure patient's complaints and physical exam coincides with the x-ray. When in doubt-ask! Write in the chart, that the patient has beed referred to — (name of senior surgeon)
 - Document your PE findings and x-ray findings; and itemize your plan for the patient.
