@@ -23,7 +23,9 @@ Jewel has used her POC experience as a lens for others who will walk the same pa
 
 Thank you Jewel and good luck on your next journey. Godspeed.
 
-John Andrew Michael Bengzon MD
+John Andrew Michael Bengzon MD<br/>
+Training Committee Chair<br/>
+Philippine Orthopedic Center
 
 ## Introduction
 Dear new residents,
