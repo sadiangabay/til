@@ -16,6 +16,15 @@ Medical Center Chief II<br/>
 Philippine Orthopedic Center<br/>
 POC Resident 1991-1994
 
+## Foreword from Dr. Bengzon
+Residency, while it is an opportunity for developing knowledge, skills & attitudes, is also a unique personal experience that will differ among all trainees. Each experience is colored by reflections & experiences once goes through and this experience goes into memory to be used in whatever way.
+
+Jewel has used her POC experience as a lens for others who will walk the same path for orthopedic training. This being the first time (to my memory) for a graduate to describe their experiences during training, this detailed description serves to give advice for the younger residents through the bumps & trials they face. Hopefully, reading this will not only result in improving the approach to better patient care but also in a better person.
+
+Thank you Jewel and good luck on your next journey. Godspeed.
+
+John Andrew Michael Bengzon MD
+
 ## Introduction
 Dear new residents,
 
@@ -30,8 +39,8 @@ Banawe QC, December 2016
 ## Rounds
 - Arrive earlier than the seniors and consultants
 - Organize your digital X-rays beforehand
-  - By patient
-  - Inside the patient’s folder organize it by 	chronology (injury film, one day post traction, second week, third week etc)
+  - By patient per floor
+  - Inside the patient’s folder organize chronologically (injury film, one day post traction, second week, third week etc)
   - By order patients are seen from the P4W to P4E to MSB down to CW
   - There is just no excuse for a missing x-ray, so plan accordingly  
 - Take latest picture of the wound
@@ -84,6 +93,7 @@ Banawe QC, December 2016
 - Speak loud and clear so other co-residents will also get acquainted about the case
 - Refrain from chatting when a co-resident is endorsing and pay attention to the patient at hand
 - Take physical notes (not mental notes, lest you would forget) of comments made by your consultant. A tickler/compilation (not a loose leaf) works best so that you can review your notes from weeks past. This is also helpful when you are doing your personal rounds.
+- Suggest to see the patient a day before the rounds if wounds warrant consistent dressing
 - Arrive 30 minutes prior to the actual rounds and make a quick ocular check of all your in-patients:
 	- Dressings are not soaked
 	- Skeletal tractions are in correct position
@@ -91,7 +101,7 @@ Banawe QC, December 2016
 	- Patient has no blisters (especially at the 	posterior ankle where the foot rests on a towel in a patient with  BST)
 	- Posterior molds have adequate wadding sheets	underneath and are adequately padded
   - In patients with leg external fixators prevent the foot from assuming an equinus position by gently putting an elastic bandage around the foot to keep it in neutral
-	- Lower leg molds should immobilize the knee in 20-30 flexion (not in full extension).
+	- Leg molds should immobilize the knee in 20-30 flexion (not in full extension).
 	- Extremities are elevated accordingly
 	- IVFs are removed (where appropriate)
 	- Drains are removed (where appropriate)
@@ -180,7 +190,7 @@ Banawe QC, December 2016
 - Note materials and equipment needed for the surgery: cerclage wire, k wire drill, pin passer, straight needble, bumps/sand bags, posts, reduction clamps
 - Implant sizes: 2 sizes up and 2 sizes down
 - Detail plan A, plan B, plan C
-- Study surgical approaches; Hoppenfeld Orthopaedic Exposures is invaluable. Most questions asked by consultants regarding approach and dangers will come from this text
+- Study surgical approaches; Hoppenfeld Orthopedic Exposures is invaluable. Most questions asked by consultants regarding approach and dangers will come from this text
 - Study principles of fixation AO volume 1
 - Study fracture epidemiology/read the chapter of that specific fracture in Rockwood
 - Know the specs and technicality of your implant
@@ -369,11 +379,13 @@ Banawe QC, December 2016
   - Dislocation
   - Open fracture
   - Septic knee
-  - always consider these as the differentials, and carefully rule these out before discharging the patient
+  - Compartment syndrome
+  - Talar/Femural neck/Spine fracture in multiple injuries
+  Always consider these as the differentials, and carefully rule these out before discharging the patient
 - Always be thorough in reviewing your x-rays, always have a second look. Make sure patient's complaints and physical exam coincides with the x-ray. When in doubt-ask! Write in the chart, that the patient has beed referred to — (name of senior surgeon)
 - Document your PE findings and x-ray findings; and itemize your plan for the patient.
 - For patients with mold, cast, open wound no matter how small, it’s always safe for the surgeon and the patient that the follow up date will be done on the earliest OPD day
-- Educate the patient on how to care for the wound. You would be surprised many would put powdered antibiotics or liniments or hot leaves on their wound which would result in undue morbidities. Take the time to explicitly tell them “bawal po mag lagay ng langis, lana or tuba tuba, o pinulbong amoxicillin…”
+- Educate the patient on how to care for the wound. You would be surprised many would put powdered antibiotics or liniments or hot leaves on their wound which would result in undue morbidities. Take the time to explicitly tell them "bawal po mag lagay ng langis, lana or tuba tuba, o pinulbong amoxicillin..."
 - Take good pictures! You know it’s an open fracture, before opening the wound, ready your sterile draw sheet, elastic bandages, gloves, glass slides and pledgets. Two to three persons should be there. One to lift the limb. One to assemble the draw sheet and get the specimens. Another one to take good pictures. It should be on a green linen, with orientation views visualizing the joint above and the joint below taken on frontal, medial and lateral views, posterior views as appropriate. A separate close up views to better delineate the degree of damage. It is better if the limb is in alignment when the pictures are taken (example: an open fracture of the tibia, hold the big toe in neutral so that the distal fracture fragment is not externally rotated in the picture)
 - Again scrutinize all your x-rays when they arrive to you. Here are the usual x-ray mistakes:
   - X-rays not taken on true AP or true lateral
@@ -390,7 +402,7 @@ Banawe QC, December 2016
   - Properly taken x-rays are vital part of good documentation
 
 ## Research
-Research is an integral part (not just of being an orthopaedic surgeon) of being a doctor. We don’t want to be mere consumers of knowledge that has been accumulated before us. Instead, we want to improve on what is already known and contribute to those who will come after us. We want to contribute on how science evolves. This is a good motivating factor. So don’t wait for the deadline, work your way bit by bit over the months and you won’t be cramming come October or February when updates are being asked.
+Research is an integral part (not just of being an orthopedic surgeon) of being a doctor. We don’t want to be mere consumers of knowledge that has been accumulated before us. Instead, we want to improve on what is already known and contribute to those who will come after us. We want to contribute on how science evolves. This is a good motivating factor. So don’t wait for the deadline, work your way bit by bit over the months and you won’t be cramming come October or February when updates are being asked.
 
 ## Conferences
 - It is good practice to come 10 mins before 7am
