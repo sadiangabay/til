@@ -385,7 +385,7 @@ Banawe QC, December 2016
   - Talar/Femural neck/Spine fracture in multiple injuries
 
   Always consider these as the differentials, and carefully rule these out before discharging the patient.
-- Always be thorough in reviewing your x-rays, always have a second look. Make sure patient's complaints and physical exam coincides with the x-ray. When in doubt-ask! Write in the chart, that the patient has beed referred to — (name of senior surgeon)
+- Always be thorough in reviewing your x-rays, always have a second look. Make sure patient's complaints and physical exam coincides with the x-ray. When in doubt - ask! Write in the chart, that the patient has beed referred to — (name of senior surgeon)
 - Document your PE findings and x-ray findings; and itemize your plan for the patient.
 - For patients with mold, cast, open wound no matter how small, it’s always safe for the surgeon and the patient that the follow up date will be done on the earliest OPD day
 - Educate the patient on how to care for the wound. You would be surprised many would put powdered antibiotics or liniments or hot leaves on their wound which would result in undue morbidities. Take the time to explicitly tell them "bawal po mag lagay ng langis, lana or tuba tuba, o pinulbong amoxicillin..."
