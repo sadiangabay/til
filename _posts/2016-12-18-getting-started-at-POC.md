@@ -218,8 +218,8 @@ Banawe QC, December 2016
   - How to close the wound
   - How many layers
   - Do we need a drain?
-  - Do we need ethibond? (what size)
-  - Do we need ss wires?
+  - Do we need Ethibond? (what size)
+  - Do we need SS wires?
 - Study plan for a pre op conference may look like this:
 
   ~~~markdown
@@ -374,7 +374,7 @@ Banawe QC, December 2016
   - Hours before the actual procedure check your implants and instruments. The last thing you want is an inducted 	patient and the external fixators were unavailable. To avoid this, do a mental surgery and write down every 		instrument and implant you would need (example: rubber sheet, drill that is charged, back up drill in case this one does not work, drill bit, tap, T-chuck, set of fixator with schanz pins, couplings, long spanning rods, wrenches etc)
   - Just as you would during elective surgery, take your time to study the case and devise a surgical plan prior to going in
   - Incisions can make or break you, it can dictate how easy or difficult subsequent surgeries will be. Hence, properly plan the incision and have your plan verified by your senior
-  - Closing the wound? or not closing the wound? ss wires? drains? think about these things before going in
+  - Closing the wound? Or not closing the wound? SS wires? Drains? think about these things before going in
   - And there is no such thing as a mini incision for an arthrotomy, a properly done arthrotomy has adequate 		exposure and visualization of the joint itself
 - There are only a few true orthopedic emergencies that should never be missed:
   - Cauda equina
