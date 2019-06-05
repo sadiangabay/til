@@ -14,8 +14,8 @@ Ward rounds are scheduled every Wednesday at Duchess of Kent Children’s Hospit
 
 ## Operating theatre
 
-![cheung](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/3-Kenneth-Cheung.png)
-*Dr. Jewel Sadiang-abay with Professor Kenneth Cheung at the operating theatre in Queen Mary. Professor Cheung is the Chair Professor and Head, Department of Orthopaedics and Traumatology.*
+> ![cheung](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/3-Kenneth-Cheung.png)
+> *Dr. Jewel Sadiang-abay with Professor Kenneth Cheung at the operating theatre in Queen Mary. Professor Cheung is the Chair Professor and Head, Department of Orthopaedics and Traumatology.*
 
 ![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/4-Dr-Wong.png)
 *Dr. Jewel Sadiang-abay with Dr. Wong Yat Wa at the outpatient clinic of Duchess of Kent Children's Hospital. Dr. Wong is the Division Chief of Spine Surgery.*
