@@ -8,7 +8,7 @@ I have always loved books, I carry them with me everywhere I go. I have a trunk 
 
 ## Rounds
 
-![rounds][./2-rounds.png]
+![rounds][/blob/gh-pages/_posts/2-rounds.png]
 
 Ward rounds are scheduled every Wednesday at Duchess of Kent Children’s Hospital and every Friday at Queen Mary Hospital. During this time, the division sees all inpatients that are in need of assessment, discussion, post operative and pre operative evaluations. The cases are diverse, including but not limited to tumors (both primary and metastatic), trauma, infection, congenital deformities and degeneration. As a clinician, this is one of the more exciting part of this fellowship. When diseases do not remain just mere written words, instead they have acquired faces, ages, sizes, they have become visible and tangible and imprinted in one’s mind. Cases and concepts such as Jeune Syndrome, Kummel disease, Noonan syndrome, Sotos syndrome, spinal muscular atrophy, the spectrum of cerebral palsy epidermal growth factor in lung cancer, VACTERL, Shilla procedure and many others. This is also the healthy academic venue where well-grounded, differing opinions may co-exist.
 
