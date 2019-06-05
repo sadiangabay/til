@@ -17,8 +17,12 @@ Ward rounds are scheduled every Wednesday at Duchess of Kent Children’s Hospit
 > ![cheung](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/3-Kenneth-Cheung.png)
 > *Dr. Jewel Sadiang-abay with Professor Kenneth Cheung at the operating theatre in Queen Mary. Professor Cheung is the Chair Professor and Head, Department of Orthopaedics and Traumatology.*
 
-![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/4-Dr-Wong.png)
-*Dr. Jewel Sadiang-abay with Dr. Wong Yat Wa at the outpatient clinic of Duchess of Kent Children's Hospital. Dr. Wong is the Division Chief of Spine Surgery.*
+<table align="center">
+    <tr>
+        <td align="center">![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/4-Dr-Wong.png)</td>
+        <td align="center">*Dr. Jewel Sadiang-abay with Dr. Wong Yat Wa at the outpatient clinic of Duchess of Kent Children's Hospital. Dr. Wong is the Division Chief of Spine Surgery.*</td>
+    </tr>
+</table>
 
 There is never a lull week in terms of surgery. Aside from the emergency operating theatres, regular OT schedules are as follows: Monday is a full surgery day at Queen Mary and usually they are the complex cases. Tuesdays and Thursdays are full operating theatre days at Duchess of Kent where the team is usually divided into two simultaneous theatres. Run-of-the-mill cases would be adolescent idiopathic scoliosis, laminoplasties, anterorior cervical decompression fusion, posterior spinal decompression with or without instrumentation, transforaminal injections among others. More complex cases include, congenital scoliosis with hemivertebra resections, VEPTR, anterior spinal fusions (dextrously approached both in the left and right sides), revision surgeries for tumor and many others. Of note, the division has a well documented growing rod series (MAGEC, NuVasive); some of the patients were scheduled for application of the rod, exchange of rod, or procedures that would effect the continuity of their surgical care.Padding and positioning is a must learn here, the surgeons are very meticulous in this regard.Operative technique and approaches are againtextbook style. The dissection and hemostasis are exacting; it is like flipping the pages of an atlas of human anatomy. More than that, the seniors surgeons are very generous in sharing the tricks of the trade, acquired from many years of experience.
 
