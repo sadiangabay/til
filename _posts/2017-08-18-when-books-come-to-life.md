@@ -1,5 +1,5 @@
 ---
-title: When books come to life
+title: When Books Come to Life
 tags: [HKU]
 description: 2017 SICOT-HKU Fellowship Report Department of Orthopaedics and Traumatology Division of Spine Surgery
 ---
