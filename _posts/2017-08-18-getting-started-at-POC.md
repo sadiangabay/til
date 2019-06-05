@@ -29,21 +29,21 @@ The division sees approximately 150 scoliosis cases every Monday. There is usual
 
 ## Conferences and HK inter-hospital meetings
 
-![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/5-conference.png)
+![conference](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/5-conference.png)
 On one of the department conference, the trainees are discussing the molecular structure of polyethylene.
 
 Basic science is a thrust of the department. The Wednesday conferences are designed for trainees to have a firm grasp of theorthopaedic basic sciences and lay a good foundation for their clinical practice. Favourably, in their setting, there are professors and senior surgeons who take the time to teach these foundations. Every Saturday, for a couple of hours in the morning, orthopaedic surgeons and trainees from different hospitals in Hong Kong gather together for some light breakfast and case discussions of a designated orthopaedic topic.
 
 ## Lunches and dinners
 
-![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/6-lunch.png)
+![lunch](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/6-lunch.png)
 Left to right. Drs Bian Zhen, Jewel Sadiang-abay, Vishal Borse, Paul Aarne Koljonen, Kenny Kwan.
 
 Members of the team find time to bond over lunches and dinners. Wednesday lunches are usually held at a restaurant near the hospital.
 
 ## Lap Chee College
 
-![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/7-lap-chee-college.png)
+![lap-chee-college](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/7-lap-chee-college.png)
 Dr. Jewel Sadiang-abay with some of the residents of Lap Chee College.
 
 It has been very convenient that I am accommodated at Lap Chee College. One of the four new residential colleges situated on Lung Wah Street, in Kennedy Town. The residence has an old classical ambiance yet it is well furnished, regularly maintained and it has a firm security. It is a short walk to the MTR, the light bus station, the market and groceries, park, gym, restaurants and coffee shops. It is also home to a culturally diverse but academically inclined group of people. It is enriching to have met some of them.
