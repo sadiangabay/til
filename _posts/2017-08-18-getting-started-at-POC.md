@@ -9,17 +9,17 @@ I have always loved books, I carry them with me everywhere I go. I have a trunk 
 ## Rounds
 
 ![rounds](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/2-rounds.png)
-The Divison of Spine Surgery in one of their weekly rounds at Duchess of Kent Children's Hospital.
+*The Divison of Spine Surgery in one of their weekly rounds at Duchess of Kent Children's Hospital.*
 
 Ward rounds are scheduled every Wednesday at Duchess of Kent Children’s Hospital and every Friday at Queen Mary Hospital. During this time, the division sees all inpatients that are in need of assessment, discussion, post operative and pre operative evaluations. The cases are diverse, including but not limited to tumors (both primary and metastatic), trauma, infection, congenital deformities and degeneration. As a clinician, this is one of the more exciting part of this fellowship. When diseases do not remain just mere written words, instead they have acquired faces, ages, sizes, they have become visible and tangible and imprinted in one’s mind. Cases and concepts such as Jeune Syndrome, Kummel disease, Noonan syndrome, Sotos syndrome, spinal muscular atrophy, the spectrum of cerebral palsy epidermal growth factor in lung cancer, VACTERL, Shilla procedure and many others. This is also the healthy academic venue where well-grounded, differing opinions may co-exist.
 
 ## Operating theatre
 
 ![cheung](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/3-Kenneth-Cheung.png)
-Dr. Jewel Sadiang-abay with Professor Kenneth Cheung at the operating theatre in Queen Mary. Professor Cheung is the Chair Professor and Head, Department of Orthopaedics and Traumatology.
+*Dr. Jewel Sadiang-abay with Professor Kenneth Cheung at the operating theatre in Queen Mary. Professor Cheung is the Chair Professor and Head, Department of Orthopaedics and Traumatology.*
 
 ![wong](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/4-Dr-Wong.png)
-Dr. Jewel Sadiang-abay with Dr. Wong Yat Wa at the outpatient clinic of Duchess of Kent Children's Hospital. Dr. Wong is the Division Chief of Spine Surgery.
+*Dr. Jewel Sadiang-abay with Dr. Wong Yat Wa at the outpatient clinic of Duchess of Kent Children's Hospital. Dr. Wong is the Division Chief of Spine Surgery.*
 
 There is never a lull week in terms of surgery. Aside from the emergency operating theatres, regular OT schedules are as follows: Monday is a full surgery day at Queen Mary and usually they are the complex cases. Tuesdays and Thursdays are full operating theatre days at Duchess of Kent where the team is usually divided into two simultaneous theatres. Run-of-the-mill cases would be adolescent idiopathic scoliosis, laminoplasties, anterorior cervical decompression fusion, posterior spinal decompression with or without instrumentation, transforaminal injections among others. More complex cases include, congenital scoliosis with hemivertebra resections, VEPTR, anterior spinal fusions (dextrously approached both in the left and right sides), revision surgeries for tumor and many others. Of note, the division has a well documented growing rod series (MAGEC, NuVasive); some of the patients were scheduled for application of the rod, exchange of rod, or procedures that would effect the continuity of their surgical care.Padding and positioning is a must learn here, the surgeons are very meticulous in this regard.Operative technique and approaches are againtextbook style. The dissection and hemostasis are exacting; it is like flipping the pages of an atlas of human anatomy. More than that, the seniors surgeons are very generous in sharing the tricks of the trade, acquired from many years of experience.
 
@@ -30,21 +30,21 @@ The division sees approximately 150 scoliosis cases every Monday. There is usual
 ## Conferences and HK inter-hospital meetings
 
 ![conference](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/5-conference.png)
-On one of the department conference, the trainees are discussing the molecular structure of polyethylene.
+*On one of the department conference, the trainees are discussing the molecular structure of polyethylene.*
 
 Basic science is a thrust of the department. The Wednesday conferences are designed for trainees to have a firm grasp of theorthopaedic basic sciences and lay a good foundation for their clinical practice. Favourably, in their setting, there are professors and senior surgeons who take the time to teach these foundations. Every Saturday, for a couple of hours in the morning, orthopaedic surgeons and trainees from different hospitals in Hong Kong gather together for some light breakfast and case discussions of a designated orthopaedic topic.
 
 ## Lunches and dinners
 
 ![lunch](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/6-lunch.png)
-Left to right. Drs Bian Zhen, Jewel Sadiang-abay, Vishal Borse, Paul Aarne Koljonen, Kenny Kwan.
+*Left to right. Drs Bian Zhen, Jewel Sadiang-abay, Vishal Borse, Paul Aarne Koljonen, Kenny Kwan.*
 
 Members of the team find time to bond over lunches and dinners. Wednesday lunches are usually held at a restaurant near the hospital.
 
 ## Lap Chee College
 
 ![lap-chee-college](https://github.com/sadiangabay/til/raw/gh-pages/assets/images/7-lap-chee-college.png)
-Dr. Jewel Sadiang-abay with some of the residents of Lap Chee College.
+*Dr. Jewel Sadiang-abay with some of the residents of Lap Chee College.*
 
 It has been very convenient that I am accommodated at Lap Chee College. One of the four new residential colleges situated on Lung Wah Street, in Kennedy Town. The residence has an old classical ambiance yet it is well furnished, regularly maintained and it has a firm security. It is a short walk to the MTR, the light bus station, the market and groceries, park, gym, restaurants and coffee shops. It is also home to a culturally diverse but academically inclined group of people. It is enriching to have met some of them.
 
